@@ -12,7 +12,7 @@
 ## 制作物
 
 ## 技術スタック
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,react,vite,html,css,github,notion,vscode,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,rails,ruby,github,notion,vscode,threejs)](https://skillicons.dev)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hina81&theme=default)
 
 
