@@ -7,9 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hina81&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hina81&theme=default&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=hina81&theme=nord_bright)
-
 
 <!--
 **hina81/hina81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
