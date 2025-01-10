@@ -10,6 +10,12 @@
 - 特定非営利活動法人NxTEND(2024/11)
 
 ## 制作物
+| 作品名 | 概要 | 使用技術 |
+| ---- | ---- | ---- |
+| Bookers1・2 | 個人開発 <br/> インターンで作成 | Ruby on Rails・Bootstrap |
+| TwitterClone | 個人開発 | Javascript・React・Firebase auth,store,hosting |
+| IchidaisaiHP | チーム開発 <br/> HP| HTML・CSS・Javascript |
+
 
 ## 技術スタック
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,threejs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
