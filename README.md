@@ -14,7 +14,8 @@
 | ---- | ---- | ---- |
 | Bookers1・2 | 個人開発 <br/> インターンで作成 | Ruby on Rails・Bootstrap |
 | TwitterClone | 個人開発 | Javascript・React・Firebase auth,store,hosting |
-| IchidaisaiHP | チーム開発 <br/> HP| HTML・CSS・Javascript |
+| [IchidaisaiHP]((https://ichidaisai.com)) | チーム開発 <br/> HP| HTML・CSS・Javascript |
+| [YokogawaComfy](https://yokogawacomfy.com) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript    |
 
 
 ## 技術スタック
