@@ -1,24 +1,18 @@
 ## Hi there 👋
+広島生まれ広島育ちの大学2年生です。
+デザインとフロントエンドの両方を手がけるエンジニアを目指しています。
 
-## Stats
+## 所属・経歴
+- 広島市立大学情報科学部知能工学科(2023/4)
+- 株式会社インフラトップ インターン(2024/6 ~ 2024/8)
+- マイクロンメモリジャパン株式会社 インターン3days(2024/09)
+- 広島市立大学 2023年度大学祭HP作成(2024/7 ~ 2024/10)
+- 特定非営利活動法人NxTEND(2024/11)
+
+## 制作物
+
+## 技術スタック
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hina81&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hina81&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hina81&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hina81&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hina81&theme=default&utcOffset=9)
 
-
-<!--
-**hina81/hina81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
