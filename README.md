@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,threejs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
 <br/>
 #### JavaScript
-- 1年程度
+- 半年程度
 - 基本的な言語仕様の理解
 
 #### ruby
