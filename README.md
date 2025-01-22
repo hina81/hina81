@@ -16,17 +16,18 @@
 | TwitterClone | 個人開発 | Javascript・React・Firebase auth,store,hosting |
 | [IchidaisaiHP](https://ichidaisai.com) | チーム開発 <br/> HP| HTML・CSS・Javascript |
 | [YokogawaComfy](https://yokogawa-comfy.web.app/) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript |
-
+| 予約システム | 個人開発 <br/> お店の予約システム制作依頼 | Ruby on Rails・TailwindCSS・Heroku |
 
 ## 技術スタック
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,threejs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,rails,ruby,js,react,vite,threejs,py,github,notion,vscode)](https://skillicons.dev)
 <br/>
-#### JavaScript
-- 半年程度
-- 基本的な言語仕様の理解
 
 #### ruby
 - railsでインターンをしていた経験あり（2ヶ月）
+- 基本的な言語仕様の理解
+
+#### JavaScript
+- 半年程度
 - 基本的な言語仕様の理解
 
 #### python
