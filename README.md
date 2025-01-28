@@ -1,6 +1,6 @@
 ## Hi there 👋
 広島生まれ広島育ちの大学2年生です。
-デザインとフロントエンドの両方を手がけるエンジニアを目指しています。
+Webアプリ開発のエンジニアを目指していて、現在はバックエンドをメインに勉強しています。
 
 ## 所属・経歴
 - 広島市立大学情報科学部知能工学科(2023/4)
@@ -12,6 +12,7 @@
 ## 制作物
 | 作品名 | 概要 | 使用技術 |
 | ---- | ---- | ---- |
+| [LikedTube](https://github.com/hina81/youtube-extraction) | 個人開発 <br/> Youtubeで高評価した動画をカテゴリ別に表示 | Ruby on Rails・TailwindCSS |
 | [YokogawaComfy](https://yokogawa-comfy.web.app/) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript |
 | [予約システム](https://github.com/hina81/reservation_system) | 個人開発 <br/> お店の予約システム制作依頼（制作中） | Ruby on Rails・TailwindCSS |
 | Bookers1・2 | 個人開発 <br/> インターンで作成 | Ruby on Rails・Bootstrap |
@@ -26,6 +27,7 @@
 #### ruby
 - railsでインターンをしていた経験あり（2ヶ月）
 - 基本的な言語仕様の理解
+- railsが好きです
 
 #### JavaScript
 - 半年程度
