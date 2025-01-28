@@ -13,7 +13,7 @@ Webアプリ開発のエンジニアを目指していて、現在はバック�
 | 作品名 | 概要 | 使用技術 |
 | ---- | ---- | ---- |
 | [LikedTube](https://github.com/hina81/youtube-extraction) | 個人開発 <br/> Youtubeで高評価した動画をカテゴリ別に表示 | Ruby on Rails・TailwindCSS |
-| [YokogawaComfy](https://yokogawa-comfy.web.app/) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript |
+| [ホームページ](https://yokogawa-comfy.web.app/) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript |
 | [予約システム](https://github.com/hina81/reservation_system) | 個人開発 <br/> お店の予約システム制作依頼（制作中） | Ruby on Rails・TailwindCSS |
 | Bookers1・2 | 個人開発 <br/> インターンで作成 | Ruby on Rails・Bootstrap |
 | TwitterClone | 個人開発 | Javascript・React・Firebase auth,store,hosting |
