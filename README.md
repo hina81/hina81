@@ -23,7 +23,7 @@ Webアプリ開発のエンジニアを目指していて、現在はフロン�
 
 
 ## 技術スタック
-[![My Skills](https://skillicons.dev/icons?i=html,css,rails,ruby,js,react,vite,threejs,py,github,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,threejs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
 <br/>
 
 #### ruby
