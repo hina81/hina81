@@ -1,6 +1,6 @@
 ## Hi there 👋
 広島生まれ広島育ちの大学2年生です。<br/>
-Webアプリ開発のエンジニアを目指していて、現在はバックエンドをメインに勉強しています。
+Webアプリ開発のエンジニアを目指していて、現在はフロントエンドをメインに勉強しています。
 
 ## 所属・経歴
 - 広島市立大学情報科学部知能工学科(2023/4)
@@ -8,10 +8,12 @@ Webアプリ開発のエンジニアを目指していて、現在はバック�
 - マイクロンメモリジャパン株式会社 インターン3days(2024/09)
 - 広島市立大学 2023年度大学祭HP作成(2024/7-2024/10)
 - 特定非営利活動法人NxTEND(2024/11)
+- 株式会社PRTIMES ハッカソン3days(2025/2)
 
 ## 制作物
 | 作品名 | 概要 | 使用技術 |
 | ---- | ---- | ---- |
+| [DreamStep](https://github.com/vyuma/dream_step) | チーム開発 <br/> PRTIMESハッカソン| Typescript・Next・TailwindCSS・Python・LangChain・FastAPI・Docker |
 | [LikedTube](https://github.com/hina81/youtube-extraction) | 個人開発 <br/> Youtubeで高評価した動画をカテゴリ別に表示 | Ruby on Rails・TailwindCSS |
 | [ホームページ](https://yokogawa-comfy.web.app/) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript |
 | [予約システム](https://github.com/hina81/reservation_system) | 個人開発 <br/> お店の予約システム制作依頼（制作中） | Ruby on Rails・TailwindCSS |
