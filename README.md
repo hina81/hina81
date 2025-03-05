@@ -13,7 +13,7 @@ Webアプリ開発のエンジニアを目指していて、現在はフロン�
 ## 制作物
 | 作品名 | 概要 | 使用技術 |
 | ---- | ---- | ---- |
-| [DreamStep](https://github.com/vyuma/dream_step) | チーム開発 <br/> PRTIMESハッカソン| Typescript・Next・TailwindCSS・Python・LangChain・FastAPI・Docker |
+| [DreamStep](https://github.com/vyuma/dream_step) | チーム開発 <br/> PRTIMESハッカソン| Typescript・Next.js・TailwindCSS・Python・LangChain・FastAPI・Docker |
 | [LikedTube](https://github.com/hina81/youtube-extraction) | 個人開発 <br/> Youtubeで高評価した動画をカテゴリ別に表示 | Ruby on Rails・TailwindCSS |
 | [ホームページ](https://yokogawa-comfy.web.app/) | 個人開発 <br/> お店の公式サイト制作依頼 | HTML・CSS・Javascript |
 | [予約システム](https://github.com/hina81/reservation_system) | 個人開発 <br/> お店の予約システム制作依頼（制作中） | Ruby on Rails・TailwindCSS |
@@ -23,7 +23,7 @@ Webアプリ開発のエンジニアを目指していて、現在はフロン�
 
 
 ## 技術スタック
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,threejs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
 <br/>
 
 #### ruby
