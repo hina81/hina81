@@ -16,7 +16,7 @@
 | 作品名 | 概要 | 使用技術 |
 | ---- | ---- | ---- |
 | [DreamStep](https://github.com/vyuma/dream_step) | チーム開発 <br/> PRTIMESハッカソン| Typescript・Next.js・TailwindCSS・Python・LangChain・FastAPI・Docker |
-| ネオTopa'z | チーム開発<br> Progateハッカソン | Typescript・React・Shadcn・TailwindCSS |
+| ネオTopa'z | チーム開発<br> Progateハッカソン | Typescript・React |
 | Bookers1・2 | 個人開発 <br/> インターンで作成 | Ruby on Rails・Bootstrap |
 | [LikedTube](https://github.com/hina81/youtube-extraction) | 個人開発 <br/> Youtubeで高評価した動画をカテゴリ別に表示 | Ruby on Rails・TailwindCSS |
 | TwitterClone | 個人開発 | Javascript・React・Firebase auth,store,hosting |
