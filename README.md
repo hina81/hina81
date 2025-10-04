@@ -6,22 +6,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
 <br/>
 
-#### JavaScript
-- 半年程度
-- 基本的な言語仕様の理解
-
-#### TypeScript
-- 勉強中
-- インターン中
-
-#### ruby
-- railsでのインターン経験あり（2ヶ月）
-- 基本的な言語仕様の理解
-- railsが好きです
-
-#### python
-- 主に学校で使用
-<br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hina81&layout=compact)
 
