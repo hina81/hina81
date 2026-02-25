@@ -3,4 +3,4 @@
 webエンジニアを目指しています。
 
 ## 技術スタック
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,vite,nextjs,rails,ruby,py,github,notion,vscode)](https://skillicons.dev)
